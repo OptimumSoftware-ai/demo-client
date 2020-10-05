@@ -27,3 +27,14 @@ yarn-error.log*
 # Temporary env files
 /public/env-config.js
 env-config.js
+
+# JetBrains
+.idea/
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
